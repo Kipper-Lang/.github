@@ -8,7 +8,7 @@ straightforward, simple, secure and type-safe coding with better efficiency and 
 
 It compiles to both JavaScript and TypeScript, and can be set up in your terminal, Node.js or ES6+ browser. 🦊
 
-For more details, you can read more about this project on the main repository [`Luna-Klatzer/Kipper`](https://github.com/Luna-Klatzer/Kipper).
+For more details, you can read more about this project on the main repository [`Kipper-Lang/Kipper`](https://github.com/Kipper-Lang/Kipper).
 
 ## General Information
 
@@ -16,5 +16,5 @@ For more details, you can read more about this project on the main repository [`
 - Docs: https://docs.kipper-lang.org
 - Playground: https://play.kipper-lang.org
 - Issue Tracker: https://issues.kipper-lang.org
-- Roadmap: [View Kipper Roadmap 🦊🚧](https://github.com/Luna-Klatzer/Kipper/discussions/139)
-- Changelog: [View CHANGELOG.md](https://github.com/Luna-Klatzer/Kipper/blob/main/CHANGELOG.md)
+- Roadmap: [View Kipper Roadmap 🦊🚧](https://github.com/Kipper-Lang/Kipper/discussions/139)
+- Changelog: [View CHANGELOG.md](https://github.com/Kipper-Lang/Kipper/blob/main/CHANGELOG.md)
